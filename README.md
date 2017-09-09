@@ -2,8 +2,6 @@
 
 This project is for React practice purpose.
 
-It uses YoutubeAPI to fetch videos
-
 Runing steps:
 
 1. git clone this repo
